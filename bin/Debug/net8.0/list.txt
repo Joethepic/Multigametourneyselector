@@ -1,0 +1,9 @@
+Pikmin 3,Strategy
+Pikmin 4,Strategy
+Balatro,Deckbuilder
+Street Fighter Alpha 3,2D Fighter
+Just Shapes and Beats,Bullet Hell
+Devil in the details,Party Game
+Role Models,Party Game
+ARMS,3D Fighter
+Mario Party Superstars,Party Game

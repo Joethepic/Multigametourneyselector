@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Multigame Tournament game decider/1.0.0": {
+        "runtime": {
+          "Multigame Tournament game decider.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multigame Tournament game decider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
