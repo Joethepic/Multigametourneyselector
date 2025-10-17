@@ -83,10 +83,6 @@ Puyo Puyo Tetris 2(Swap),Puzzle
 Puyo Puyo Tetris 2(Swap),Puzzle
 Puyo Puyo Tetris 2(Swap),Puzzle
 Puyo Puyo Tetris 2(Swap),Puzzle
-Super Mario Bros wonder,Platformer
-Super Mario Bros wonder,Platformer
-Super Mario Bros wonder,Platformer
-Super Mario Bros wonder,Platformer
 Fibage 3(regular),Party Game
 Fibage 3(regular),Party Game
 Fibage 3(regular),Party Game
@@ -178,3 +174,4 @@ Quake II,Shooter
 Quake II,Shooter
 Quake II,Shooter
 Quake II,Shooter
+
