@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bigjo\\Documents\\Multigame Tournament game decider\\Multigame Tournament game decider.csproj",
+      "projectUniqueName": "C:\\Users\\bigjo\\Documents\\Multigame tournament\\Multigametourneyselector-main\\Multigame Tournament game decider.csproj",
       "projectName": "Multigame Tournament game decider",
-      "projectPath": "C:\\Users\\bigjo\\Documents\\Multigame Tournament game decider\\Multigame Tournament game decider.csproj",
+      "projectPath": "C:\\Users\\bigjo\\Documents\\Multigame tournament\\Multigametourneyselector-main\\Multigame Tournament game decider.csproj",
       "packagesPath": "C:\\Users\\bigjo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bigjo\\Documents\\Multigame Tournament game decider\\obj\\",
+      "outputPath": "C:\\Users\\bigjo\\Documents\\Multigame tournament\\Multigametourneyselector-main\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

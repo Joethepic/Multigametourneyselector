@@ -10,10 +10,12 @@ namespace Multigame_Tournament_game_decider
     {
         public string Name { get; set; }
         public string Genre { get; set; }
-        public Game(string name, string genre)
+        public int BossMode { get; set; }
+        public Game(string name, string genre, int bossMode = 0)
         {
             Name = name;
             Genre = genre;
+            BossMode = bossMode;
         }
     }
 

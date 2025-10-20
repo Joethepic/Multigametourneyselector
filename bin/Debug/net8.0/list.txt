@@ -1,177 +1,193 @@
-Pikmin 3,Strategy
-Pikmin 3,Strategy
-Pikmin 3,Strategy
-Pikmin 3,Strategy
-Pikmin 4,Strategy
-Pikmin 4,Strategy
-Pikmin 4,Strategy
-Pikmin 4,Strategy
-Balatro,Deckbuilder
-Balatro,Deckbuilder
-Balatro,Deckbuilder
-Street Fighter Alpha 3,2D Fighter
-Street Fighter Alpha 3,2D Fighter
-Street Fighter Alpha 3,2D Fighter
-Just Shapes and Beats,Bullet Hell
-Just Shapes and Beats,Bullet Hell
-Just Shapes and Beats,Bullet Hell
-Just Shapes and Beats,Bullet Hell
-Just Shapes and Beats,Bullet Hell
-Towerfall,Platform Fighter
-Towerfall,Platform Fighter
-Towerfall,Platform Fighter
-Towerfall,Platform Fighter
-Towerfall,Platform Fighter
-Smash Smash Bros Ultimate,Platform Fighter
-Smash Smash Bros Ultimate,Platform Fighter
-Smash Smash Bros Ultimate,Platform Fighter
-Smash Smash Bros Ultimate,Platform Fighter
-Smash Smash Bros Ultimate,Platform Fighter
-Sonic Racing Crossworlds,Racing
-Sonic Racing Crossworlds,Racing
-Sonic Racing Crossworlds,Racing
-Sonic Racing Crossworlds,Racing
-Sonic Racing Crossworlds,Racing
-Mario Kart World,Racing
-Mario Kart World,Racing
-Mario Kart World,Racing
-Mario Kart World,Racing
-Mario Kart World,Racing
-Duck Game,Platform Fighter
-Duck Game,Platform Fighter
-Duck Game,Platform Fighter
-Duck Game,Platform Fighter
-Duck Game,Platform Fighter
-super mario party jamboree,Party Game
-super mario party jamboree,Party Game
-super mario party jamboree,Party Game
-Hollow Knight,Metroidvania
-Hollow Knight,Metroidvania
-Slay the spire,Deckbuilder
-Slay the spire,Deckbuilder
-Devil in the details,Party Game
-Devil in the details,Party Game
-Devil in the details,Party Game
-Devil in the details,Party Game
-Role Models,Party Game
-Role Models,Party Game
-Role Models,Party Game
-Role Models,Party Game
-ARMS,3D Fighter
-ARMS,3D Fighter
-ARMS,3D Fighter
-ARMS,3D Fighter
-ARMS,3D Fighter
-Mario Kart 8 Deluxe,Racing
-Mario Kart 8 Deluxe,Racing
-Mario Kart 8 Deluxe,Racing
-Mario Kart 8 Deluxe,Racing
-Mario Kart 8 Deluxe,Racing
-Mario Party Superstars,Party Game
-Mario Party Superstars,Party Game
-Mario Party Superstars,Party Game
-Pokemon Tournament DX,3D Fighter
-Pokemon Tournament DX,3D Fighter
-Pokemon Tournament DX,3D Fighter
-Pokemon Tournament DX,3D Fighter
-Mario Tennis Aces,Sports
-Mario Tennis Aces,Sports
-Mario Tennis Aces,Sports
-Mario Tennis Aces,Sports
-Puyo Puyo Tetris 2(Swap),Puzzle
-Puyo Puyo Tetris 2(Swap),Puzzle
-Puyo Puyo Tetris 2(Swap),Puzzle
-Puyo Puyo Tetris 2(Swap),Puzzle
-Puyo Puyo Tetris 2(Swap),Puzzle
-Fibage 3(regular),Party Game
-Fibage 3(regular),Party Game
-Fibage 3(regular),Party Game
-Fibage 3(regular),Party Game
-Fibage 3(regular),Party Game
-Fibage 3(enough about you),Party Game
-Fibage 3(enough about you),Party Game
-Fibage 3(enough about you),Party Game
-Fibage 3(enough about you),Party Game
-Blather 'Round,Party Game
-Blather 'Round,Party Game
-Blather 'Round,Party Game
-Blather 'Round,Party Game
-Trivia Murder Party 2,Party Game
-Trivia Murder Party 2,Party Game
-Trivia Murder Party 2,Party Game
-Trivia Murder Party 2,Party Game
-Push The Button,Party Game
-Push The Button,Party Game
-Push The Button,Party Game
-Push The Button,Party Game
-Push The Button,Party Game
-Ultimate Chicken Horse,Platformer
-Ultimate Chicken Horse,Platformer
-Ultimate Chicken Horse,Platformer
-Ultimate Chicken Horse,Platformer
-Speedrunners,Platformer
-Speedrunners,Platformer
-Speedrunners,Platformer
-Speedrunners,Platformer
-Super Metroid,Metroidvania
-Super Metroid,Metroidvania
-Super Metroid,Metroidvania
-Super Metroid,Metroidvania
-Wario Ware: Get it Together(Sly Angle),Party Game
-Wario Ware: Get it Together(Sly Angle),Party Game
-Wario Ware: Get it Together(Sly Angle),Party Game
-Wario Ware: Get it Together(Sly Angle),Party Game
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game
-Wario Ware: Get it Together(High Five),Party Game
-Wario Ware: Get it Together(High Five),Party Game
-Wario Ware: Get it Together(High Five),Party Game
-Wario Ware: Get it Together(High Five),Party Game
-Wario Ware: Get it Together(High Five),Party Game
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle
-Kirby Star Allies(Star Slam Heroes),Party Game
-Kirby Star Allies(Star Slam Heroes),Party Game
-Kirby Star Allies(Star Slam Heroes),Party Game
-Kirby Star Allies(Star Slam Heroes),Party Game
-Kirby Star Allies(Star Slam Heroes),Party Game
-Kirby Star Allies(Chop Champs),Party Game
-Kirby Star Allies(Chop Champs),Party Game
-Kirby Star Allies(Chop Champs),Party Game
-Kirby Star Allies(Chop Champs),Party Game
-Kirby Star Allies(Chop Champs),Party Game
-Split The Room,Party Game
-Split The Room,Party Game
-Split The Room,Party Game
-Split The Room,Party Game
-Deep Rock Galactic,Shooter
-Deep Rock Galactic,Shooter
-Deep Rock Galactic,Shooter
-Sifu,3D Fighter
-Sifu,3D Fighter
-Sifu,3D Fighter
-Sifu,3D Fighter
-Splatoon 3(Side Order),Shooter
-Splatoon 3(Side Order),Shooter
-Splatoon 3(Side Order),Shooter
-Splatoon 3(Side Order),Shooter
-Blazeblue Centralfiction,2D Fighter
-Blazeblue Centralfiction,2D Fighter
-Blazeblue Centralfiction,2D Fighter
-Blazeblue Centralfiction,2D Fighter
-Skullgirls 2nd Encore,2D Fighter
-Skullgirls 2nd Encore,2D Fighter
-Skullgirls 2nd Encore,2D Fighter
-Skullgirls 2nd Encore,2D Fighter
-Quake II,Shooter
-Quake II,Shooter
-Quake II,Shooter
-Quake II,Shooter
-Quake II,Shooter
-
+Pikmin 3,Strategy,0
+Pikmin 3,Strategy,0
+Pikmin 3,Strategy,0
+Pikmin 3,Strategy,0
+Pikmin 4,Strategy,0
+Pikmin 4,Strategy,0
+Pikmin 4,Strategy,0
+Pikmin 4,Strategy,0
+Balatro,Deckbuilder,2
+Balatro,Deckbuilder,2
+Balatro,Deckbuilder,2
+Street Fighter Alpha 3,2D Fighter,0
+Street Fighter Alpha 3,2D Fighter,0
+Street Fighter Alpha 3,2D Fighter,0
+Just Shapes and Beats,Bullet Hell,0
+Just Shapes and Beats,Bullet Hell,0
+Just Shapes and Beats,Bullet Hell,0
+Just Shapes and Beats,Bullet Hell,0
+Just Shapes and Beats,Bullet Hell,0
+Towerfall,Platform Fighter,0
+Towerfall,Platform Fighter,0
+Towerfall,Platform Fighter,0
+Towerfall,Platform Fighter,0
+Towerfall,Platform Fighter,0
+Smash Smash Bros Ultimate,Platform Fighter,0
+Smash Smash Bros Ultimate,Platform Fighter,0
+Smash Smash Bros Ultimate,Platform Fighter,0
+Smash Smash Bros Ultimate,Platform Fighter,0
+Smash Smash Bros Ultimate,Platform Fighter,0
+Sonic Racing Crossworlds,Racing,0
+Sonic Racing Crossworlds,Racing,0
+Sonic Racing Crossworlds,Racing,0
+Sonic Racing Crossworlds,Racing,0
+Sonic Racing Crossworlds,Racing,0
+Mario Kart World,Racing,0
+Mario Kart World,Racing,0
+Mario Kart World,Racing,0
+Mario Kart World,Racing,0
+Mario Kart World,Racing,0
+Duck Game,Platform Fighter,0
+Duck Game,Platform Fighter,0
+Duck Game,Platform Fighter,0
+Duck Game,Platform Fighter,0
+Duck Game,Platform Fighter,0
+super mario party jamboree,Party Game,0
+super mario party jamboree,Party Game,0
+super mario party jamboree,Party Game,0
+Hollow Knight,Metroidvania,0
+Hollow Knight,Metroidvania,0
+Slay the spire,Deckbuilder,2
+Slay the spire,Deckbuilder,2
+Devil in the details,Party Game,0
+Devil in the details,Party Game,0
+Devil in the details,Party Game,0
+Devil in the details,Party Game,0
+Role Models,Party Game,0
+Role Models,Party Game,0
+Role Models,Party Game,0
+Role Models,Party Game,0
+ARMS(Fight),3D Fighter,0
+ARMS(Fight),3D Fighter,0
+ARMS(Fight),3D Fighter,0
+ARMS(Fight),3D Fighter,0
+ARMS(Fight),3D Fighter,0
+Mario Kart 8 Deluxe,Racing,0
+Mario Kart 8 Deluxe,Racing,0
+Mario Kart 8 Deluxe,Racing,0
+Mario Kart 8 Deluxe,Racing,0
+Mario Kart 8 Deluxe,Racing,0
+Mario Party Superstars,Party Game,0
+Mario Party Superstars,Party Game,0
+Mario Party Superstars,Party Game,0
+Pokemon Tournament DX,3D Fighter,0
+Pokemon Tournament DX,3D Fighter,0
+Pokemon Tournament DX,3D Fighter,0
+Pokemon Tournament DX,3D Fighter,0
+Mario Tennis Aces,Sports,0
+Mario Tennis Aces,Sports,0
+Mario Tennis Aces,Sports,0
+Mario Tennis Aces,Sports,0
+Puyo Puyo Tetris 2(Swap),Puzzle,0
+Puyo Puyo Tetris 2(Swap),Puzzle,0
+Puyo Puyo Tetris 2(Swap),Puzzle,0
+Puyo Puyo Tetris 2(Swap),Puzzle,0
+Puyo Puyo Tetris 2(Swap),Puzzle,0
+Fibage 3(regular),Party Game,0
+Fibage 3(regular),Party Game,0
+Fibage 3(regular),Party Game,0
+Fibage 3(regular),Party Game,0
+Fibage 3(regular),Party Game,0
+Fibage 3(enough about you),Party Game,0
+Fibage 3(enough about you),Party Game,0
+Fibage 3(enough about you),Party Game,0
+Fibage 3(enough about you),Party Game,0
+Blather 'Round,Party Game,0
+Blather 'Round,Party Game,0
+Blather 'Round,Party Game,0
+Blather 'Round,Party Game,0
+Trivia Murder Party 2,Party Game,0
+Trivia Murder Party 2,Party Game,0
+Trivia Murder Party 2,Party Game,0
+Trivia Murder Party 2,Party Game,0
+Push The Button,Party Game,0
+Push The Button,Party Game,0
+Push The Button,Party Game,0
+Push The Button,Party Game,0
+Push The Button,Party Game,0
+Ultimate Chicken Horse,Platformer,0
+Ultimate Chicken Horse,Platformer,0
+Ultimate Chicken Horse,Platformer,0
+Ultimate Chicken Horse,Platformer,0
+Speedrunners,Platformer,0
+Speedrunners,Platformer,0
+Speedrunners,Platformer,0
+Speedrunners,Platformer,0
+Super Metroid,Metroidvania,0
+Super Metroid,Metroidvania,0
+Super Metroid,Metroidvania,0
+Super Metroid,Metroidvania,0
+Wario Ware: Get it Together(Sly Angle),Party Game,0
+Wario Ware: Get it Together(Sly Angle),Party Game,0
+Wario Ware: Get it Together(Sly Angle),Party Game,0
+Wario Ware: Get it Together(Sly Angle),Party Game,0
+Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0
+Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0
+Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0
+Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0
+Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0
+Wario Ware: Get it Together(High Five),Party Game,0
+Wario Ware: Get it Together(High Five),Party Game,0
+Wario Ware: Get it Together(High Five),Party Game,0
+Wario Ware: Get it Together(High Five),Party Game,0
+Wario Ware: Get it Together(High Five),Party Game,0
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0
+Kirby Star Allies(Star Slam Heroes),Party Game,0
+Kirby Star Allies(Star Slam Heroes),Party Game,0
+Kirby Star Allies(Star Slam Heroes),Party Game,0
+Kirby Star Allies(Star Slam Heroes),Party Game,0
+Kirby Star Allies(Star Slam Heroes),Party Game,0
+Kirby Star Allies(Chop Champs),Party Game,0
+Kirby Star Allies(Chop Champs),Party Game,0
+Kirby Star Allies(Chop Champs),Party Game,0
+Kirby Star Allies(Chop Champs),Party Game,0
+Kirby Star Allies(Chop Champs),Party Game,0
+Split The Room,Party Game,0
+Split The Room,Party Game,0
+Split The Room,Party Game,0
+Split The Room,Party Game,0
+Sifu,3D Fighter,0
+Sifu,3D Fighter,0
+Sifu,3D Fighter,0
+Splatoon 3(Side Order),Shooter,0
+Splatoon 3(Side Order),Shooter,0
+Splatoon 3(Side Order),Shooter,0
+Splatoon 3(Side Order),Shooter,0
+Blazeblue Centralfiction,2D Fighter,0
+Blazeblue Centralfiction,2D Fighter,0
+Blazeblue Centralfiction,2D Fighter,0
+Blazeblue Centralfiction,2D Fighter,0
+Skullgirls 2nd Encore,2D Fighter,0
+Skullgirls 2nd Encore,2D Fighter,0
+Skullgirls 2nd Encore,2D Fighter,0
+Skullgirls 2nd Encore,2D Fighter,0
+Quake II,Shooter,0
+Quake II,Shooter,0
+Quake II,Shooter,0
+Quake II,Shooter,0
+Quake II,Shooter,0
+Metroid Dread,Metroidvania,0
+Metroid Dread,Metroidvania,0
+Metroid Dread,Metroidvania,0
+Celeste,Platformer,0
+Celeste,Platformer,0
+Celeste,Platformer,0
+Celeste,Platformer,0
+ARMS(VBall),Sports,0
+ARMS(VBall),Sports,0
+ARMS(VBall),Sports,0
+ARMS(VBall),Sports,0
+ARMS(VBall),Sports,0
+ARMS(Hoops),Sports,0
+ARMS(Hoops),Sports,0
+ARMS(Hoops),Sports,0
+ARMS(Hoops),Sports,0
+ARMS(Hedlok Scramble),3D Fighter,0
+ARMS(Hedlok Scramble),3D Fighter,0
+ARMS(Hedlok Scramble),3D Fighter,0
+ARMS(Hedlok Scramble),3D Fighter,0
+ARMS(Hedlok Scramble),3D Fighter,0
