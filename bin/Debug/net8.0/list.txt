@@ -22,21 +22,21 @@ Towerfall,Platform Fighter,0
 Towerfall,Platform Fighter,0
 Towerfall,Platform Fighter,0
 Towerfall,Platform Fighter,0
-Smash Smash Bros Ultimate,Platform Fighter,0
-Smash Smash Bros Ultimate,Platform Fighter,0
-Smash Smash Bros Ultimate,Platform Fighter,0
-Smash Smash Bros Ultimate,Platform Fighter,0
-Smash Smash Bros Ultimate,Platform Fighter,0
+Smash Smash Bros Ultimate,Platform Fighter,2
+Smash Smash Bros Ultimate,Platform Fighter,2
+Smash Smash Bros Ultimate,Platform Fighter,2
+Smash Smash Bros Ultimate,Platform Fighter,2
+Smash Smash Bros Ultimate,Platform Fighter,2
 Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
-Mario Kart World,Racing,0
-Mario Kart World,Racing,0
-Mario Kart World,Racing,0
-Mario Kart World,Racing,0
-Mario Kart World,Racing,0
+Mario Kart World,Racing,2
+Mario Kart World,Racing,2
+Mario Kart World,Racing,2
+Mario Kart World,Racing,2
+Mario Kart World,Racing,2
 Duck Game,Platform Fighter,0
 Duck Game,Platform Fighter,0
 Duck Game,Platform Fighter,0
@@ -105,14 +105,14 @@ Push The Button,Party Game,0
 Push The Button,Party Game,0
 Push The Button,Party Game,0
 Push The Button,Party Game,0
-Ultimate Chicken Horse,Platformer,0
-Ultimate Chicken Horse,Platformer,0
-Ultimate Chicken Horse,Platformer,0
-Ultimate Chicken Horse,Platformer,0
-Speedrunners,Platformer,0
-Speedrunners,Platformer,0
-Speedrunners,Platformer,0
-Speedrunners,Platformer,0
+Ultimate Chicken Horse,2D Platformer,0
+Ultimate Chicken Horse,2D Platformer,0
+Ultimate Chicken Horse,2D Platformer,0
+Ultimate Chicken Horse,2D Platformer,0
+Speedrunners,2D Platformer,0
+Speedrunners,2D Platformer,0
+Speedrunners,2D Platformer,0
+Speedrunners,2D Platformer,0
 Super Metroid,Metroidvania,0
 Super Metroid,Metroidvania,0
 Super Metroid,Metroidvania,0
@@ -173,10 +173,10 @@ Quake II,Shooter,0
 Metroid Dread,Metroidvania,0
 Metroid Dread,Metroidvania,0
 Metroid Dread,Metroidvania,0
-Celeste,Platformer,0
-Celeste,Platformer,0
-Celeste,Platformer,0
-Celeste,Platformer,0
+Celeste,2D Platformer,2
+Celeste,2D Platformer,2
+Celeste,2D Platformer,2
+Celeste,2D Platformer,2
 ARMS(VBall),Sports,0
 ARMS(VBall),Sports,0
 ARMS(VBall),Sports,0
@@ -191,3 +191,24 @@ ARMS(Hedlok Scramble),3D Fighter,0
 ARMS(Hedlok Scramble),3D Fighter,0
 ARMS(Hedlok Scramble),3D Fighter,0
 ARMS(Hedlok Scramble),3D Fighter,0
+Super Castlevania 4,2D Platformer,2
+Super Castlevania 4,2D Platformer,2
+Super Castlevania 4,2D Platformer,2
+Super Castlevania 4,2D Platformer,2
+Enter The Gungeon,Bullet Hell,0
+Enter The Gungeon,Bullet Hell,0
+Enter The Gungeon,Bullet Hell,0
+Enter The Gungeon,Bullet Hell,0
+Minecraft(Race),Action Adventure,0
+Minecraft(Race),Action Adventure,0
+Minecraft(Race),Action Adventure,0
+Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Survival Horror),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Survival Horror),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Survival Horror),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
