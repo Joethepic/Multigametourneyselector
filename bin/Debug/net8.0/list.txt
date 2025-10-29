@@ -32,11 +32,11 @@ Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
 Sonic Racing Crossworlds,Racing,0
-Mario Kart World,Racing,2
-Mario Kart World,Racing,2
-Mario Kart World,Racing,2
-Mario Kart World,Racing,2
-Mario Kart World,Racing,2
+Mario Kart World(Race),Racing,2
+Mario Kart World(Race),Racing,2
+Mario Kart World(Race),Racing,2
+Mario Kart World(Race),Racing,2
+Mario Kart World(Race),Racing,2
 Duck Game,Platform Fighter,0
 Duck Game,Platform Fighter,0
 Duck Game,Platform Fighter,0
@@ -199,9 +199,9 @@ Enter The Gungeon,Bullet Hell,0
 Enter The Gungeon,Bullet Hell,0
 Enter The Gungeon,Bullet Hell,0
 Enter The Gungeon,Bullet Hell,0
-Minecraft(Race),Action Adventure,0
-Minecraft(Race),Action Adventure,0
-Minecraft(Race),Action Adventure,0
+Minecraft(Race),Racing,0
+Minecraft(Race),Racing,0
+Minecraft(Race),Racing,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0
@@ -212,3 +212,45 @@ Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
 Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
 Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
 Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0
+Mario Kart World (Knockout Tour),Racing,2
+Mario Kart World (Knockout Tour),Racing,2
+Mario Kart World (Knockout Tour),Racing,2
+Mario Kart World (Knockout Tour),Racing,2
+Overcooked 2,Simulation,2
+Overcooked 2,Simulation,2
+Overcooked 2,Simulation,2
+Overcooked 2,Simulation,2
+Tyrants of the Underdark,Deckbuilder,0
+Tyrants of the Underdark,Deckbuilder,0
+Tyrants of the Underdark,Deckbuilder,0
+Tyrants of the Underdark,Deckbuilder,0
+Chess,Board Game,0
+Chess,Board Game,0
+Chess,Board Game,0
+Chess,Board Game,0
+Minecraft(Mob Arena),Action Adventure,2
+Minecraft(Mob Arena),Action Adventure,2
+Minecraft(Mob Arena),Action Adventure,2
+Minecraft(Mob Arena),Action Adventure,2
+Hat In Time,3D Platfomrer,2
+Hat In Time,3D Platfomrer,2
+Hat In Time,3D Platfomrer,2
+Hat In Time,3D Platfomrer,2
+Poker,Card Game,0
+Poker,Card Game,0
+Poker,Card Game,0
+Poker,Card Game,0
+Poker,Card Game,0
+Colonist,Board Game,0
+Colonist,Board Game,0
+Colonist,Board Game,0
+Colonist,Board Game,0
+Land-io,Party Game,0
+Land-io,Party Game,0
+Land-io,Party Game,0
+Land-io,Party Game,0
+Mario Sports Mix(Vollyball),Sports,2
+Mario Sports Mix(Vollyball),Sports,2
+Mario Sports Mix(Vollyball),Sports,2
+Mario Sports Mix(Vollyball),Sports,2
+Mario Sports Mix(Vollyball),Sports,2
