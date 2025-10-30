@@ -254,3 +254,21 @@ Mario Sports Mix(Vollyball),Sports,2
 Mario Sports Mix(Vollyball),Sports,2
 Mario Sports Mix(Vollyball),Sports,2
 Mario Sports Mix(Vollyball),Sports,2
+Mario Sports Mix(Basketball),Sports,2
+Mario Sports Mix(Basketball),Sports,2
+Mario Sports Mix(Basketball),Sports,2
+Mario Sports Mix(Basketball),Sports,2
+Mario Sports Mix(Hockey),Sports,2
+Mario Sports Mix(Hockey),Sports,2
+Mario Sports Mix(Hockey),Sports,2
+Mario Sports Mix(Hockey),Sports,2
+Mario Sports Mix(Dodgeball),Sports,2
+Mario Sports Mix(Dodgeball),Sports,2
+Mario Sports Mix(Dodgeball),Sports,2
+Mario Sports Mix(Dodgeball),Sports,2
+Mario Sports Mix(Dodgeball),Sports,2
+Mario Super Sluggers(Gem Catch),Sports,0
+Mario Super Sluggers(Gem Catch),Sports,0
+Mario Super Sluggers(Gem Catch),Sports,0
+Mario Super Sluggers(Gem Catch),Sports,0
+Mario Super Sluggers(Gem Catch),Sports,0
