@@ -12,11 +12,11 @@ Balatro,Deckbuilder,2
 Street Fighter Alpha 3,2D Fighter,0
 Street Fighter Alpha 3,2D Fighter,0
 Street Fighter Alpha 3,2D Fighter,0
-Just Shapes and Beats,Bullet Hell,0
-Just Shapes and Beats,Bullet Hell,0
-Just Shapes and Beats,Bullet Hell,0
-Just Shapes and Beats,Bullet Hell,0
-Just Shapes and Beats,Bullet Hell,0
+Just Shapes and Beats,Bullet Hell,2
+Just Shapes and Beats,Bullet Hell,2
+Just Shapes and Beats,Bullet Hell,2
+Just Shapes and Beats,Bullet Hell,2
+Just Shapes and Beats,Bullet Hell,2
 Towerfall,Platform Fighter,0
 Towerfall,Platform Fighter,0
 Towerfall,Platform Fighter,0
@@ -220,10 +220,10 @@ Overcooked 2,Simulation,2
 Overcooked 2,Simulation,2
 Overcooked 2,Simulation,2
 Overcooked 2,Simulation,2
-Tyrants of the Underdark,Deckbuilder,0
-Tyrants of the Underdark,Deckbuilder,0
-Tyrants of the Underdark,Deckbuilder,0
-Tyrants of the Underdark,Deckbuilder,0
+Tyrants of the Underdark,Deckbuilder,1
+Tyrants of the Underdark,Deckbuilder,1
+Tyrants of the Underdark,Deckbuilder,1
+Tyrants of the Underdark,Deckbuilder,1
 Chess,Board Game,0
 Chess,Board Game,0
 Chess,Board Game,0
@@ -272,3 +272,47 @@ Mario Super Sluggers(Gem Catch),Sports,0
 Mario Super Sluggers(Gem Catch),Sports,0
 Mario Super Sluggers(Gem Catch),Sports,0
 Mario Super Sluggers(Gem Catch),Sports,0
+Mario Super Sluggers(Graffiti Runner),Sports,0
+Mario Super Sluggers(Blooper Baserun),Sports,0
+Mario Super Sluggers(Piranha Panic),Sports,0
+Mario Super Sluggers(Bowser Pinball),Sports,0
+Mario Super Sluggers(Ghost K),Sports,0
+Mario Super Sluggers(Wall Ball),Sports,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0
+Mario Super Sluggers(Graffiti Runner),Sports,0
+Mario Super Sluggers(Blooper Baserun),Sports,0
+Mario Super Sluggers(Piranha Panic),Sports,0
+Mario Super Sluggers(Bowser Pinball),Sports,0
+Mario Super Sluggers(Ghost K),Sports,0
+Mario Super Sluggers(Wall Ball),Sports,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0
+Mario Super Sluggers(Graffiti Runner),Sports,0
+Mario Super Sluggers(Blooper Baserun),Sports,0
+Mario Super Sluggers(Piranha Panic),Sports,0
+Mario Super Sluggers(Bowser Pinball),Sports,0
+Mario Super Sluggers(Ghost K),Sports,0
+Mario Super Sluggers(Wall Ball),Sports,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0
+Mario Super Sluggers(Graffiti Runner),Sports,0
+Mario Super Sluggers(Blooper Baserun),Sports,0
+Mario Super Sluggers(Piranha Panic),Sports,0
+Mario Super Sluggers(Bowser Pinball),Sports,0
+Mario Super Sluggers(Ghost K),Sports,0
+Mario Super Sluggers(Wall Ball),Sports,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0
+Mario Super Sluggers(Graffiti Runner),Sports,0
+Mario Super Sluggers(Blooper Baserun),Sports,0
+Mario Super Sluggers(Piranha Panic),Sports,0
+Mario Super Sluggers(Bowser Pinball),Sports,0
+Mario Super Sluggers(Ghost K),Sports,0
+Mario Super Sluggers(Wall Ball),Sports,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0
+Minecraft(Obstacles),Action Adventure,1
+Minecraft(Obstacles),Action Adventure,1
+Minecraft(Obstacles),Action Adventure,1
+Minecraft(Obstacles),Action Adventure,1
+Mario Sports Mix(Feed Petey),Sports,0
+Mario Sports Mix(Feed Petey),Sports,0
+Mario Sports Mix(Feed Petey),Sports,0
+Mario Sports Mix(Feed Petey),Sports,0
+Mario Sports Mix(Feed Petey),Sports,0
