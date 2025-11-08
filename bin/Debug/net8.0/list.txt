@@ -322,3 +322,13 @@ You Don't know Jack,Party Game,0,0
 You Don't know Jack,Party Game,0,0
 You Don't know Jack,Party Game,0,0
 You Don't know Jack,Party Game,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
