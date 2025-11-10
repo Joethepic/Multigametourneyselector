@@ -11,11 +11,13 @@ namespace Multigame_Tournament_game_decider
         public string Name { get; set; }
         public string Genre { get; set; }
         public int BossMode { get; set; }
-        public Game(string name, string genre, int bossMode = 0)
+        public int timesPlayed { get; set; }
+        public Game(string name, string genre, int bossMode = 0, int timesplayed = 0)
         {
             Name = name;
             Genre = genre;
             BossMode = bossMode;
+            timesPlayed = timesplayed;
         }
     }
 

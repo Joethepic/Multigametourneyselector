@@ -19,13 +19,14 @@ file = readlist.ReadToEnd();
 string[] arrgamesttl = file.Split('\n');
 List<Game> games = new List<Game>();
 string[] currentgame = {};
+int roller;
 string curgenre;
 try
 {
     foreach (string str in arrgamesttl)
     {
         currentgame = str.Split(",");
-        games.Add(new Game(currentgame[0], currentgame[1], Convert.ToInt32(currentgame[2])));
+        games.Add(new Game(currentgame[0], currentgame[1], Convert.ToInt32(currentgame[2]), Convert.ToInt32(currentgame[3])));
     }
 }
 catch (IndexOutOfRangeException)
@@ -33,26 +34,34 @@ catch (IndexOutOfRangeException)
     Console.WriteLine(currentgame[0]);
     Console.WriteLine("It broke :(");
 }
-
 readlist.Close();
 while (game <= gamestourney)
 {
     if (bossmode == 1)
     {
         curgame = randomizer.Next(0, games.Count - 1);
-        writer.WriteLine(games[curgame].Name);
-        curgenre = games[curgame].Genre;
-        game++;
-        foreach (Game s in games.ToList())
+        roller = randomizer.Next(0, games[curgame].timesPlayed);
+        if (roller == 0)
         {
-            if (s.Genre == curgenre)
-            {
-                games.Remove(s);
-            }
-            else
-            {
+            writer.WriteLine(games[curgame].Name);
+            curgenre = games[curgame].Genre;
+            game++;
 
+            foreach (Game s in games.ToList())
+            {
+                if (s.Genre == curgenre)
+                {
+                    games.Remove(s);
+                }
+                else
+                {
+
+                }
             }
+        }
+        else
+        {
+            games.RemoveAt(curgame);
         }
     }
     if (bossmode == 2)
@@ -62,19 +71,27 @@ while (game <= gamestourney)
             curgame = randomizer.Next(0, games.Count - 1);
             if (games[curgame].BossMode != 1)
             {
-                writer.WriteLine(games[curgame].Name);
-                curgenre = games[curgame].Genre;
-                iteration++;
-                foreach (Game s in games.ToList())
+                roller = randomizer.Next(0, games[curgame].timesPlayed);
+                if (roller == 0)
                 {
-                    if (s.Genre == curgenre)
+                    writer.WriteLine(games[curgame].Name);
+                    curgenre = games[curgame].Genre;
+                    iteration++;
+                    foreach (Game s in games.ToList())
                     {
-                        games.Remove(s);
-                    }
-                    else
-                    {
+                        if (s.Genre == curgenre)
+                        {
+                            games.Remove(s);
+                        }
+                        else
+                        {
 
+                        }
                     }
+                }
+                else
+                {
+                    games.RemoveAt(curgame);
                 }
             }
             else
