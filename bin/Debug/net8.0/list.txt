@@ -332,3 +332,13 @@ Checkers,Strategy,0,0
 Reversi,Strategy,0,0
 Checkers,Strategy,0,0
 Reversi,Strategy,0,0
+Bomberman 2,Strategy,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Bomberman 2,Strategy,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Bomberman 2,Strategy,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Bomberman 2,Strategy,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Bomberman 2,Strategy,0,0
+Minecraft(Spleef),Action Adventure,0,0
