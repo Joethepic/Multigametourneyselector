@@ -6,17 +6,17 @@ Pikmin 4,Strategy,0,0
 Pikmin 4,Strategy,0,0
 Pikmin 4,Strategy,0,0
 Pikmin 4,Strategy,0,0
-Balatro,Deckbuilder,2,1
-Balatro,Deckbuilder,2,1
-Balatro,Deckbuilder,2,1
+Balatro,Deckbuilder,2,2
+Balatro,Deckbuilder,2,2
+Balatro,Deckbuilder,2,2
 Street Fighter Alpha 3,2D Fighter,0,0
 Street Fighter Alpha 3,2D Fighter,0,0
 Street Fighter Alpha 3,2D Fighter,0,0
-Just Shapes and Beats,Bullet Hell,2,0
-Just Shapes and Beats,Bullet Hell,2,0
-Just Shapes and Beats,Bullet Hell,2,0
-Just Shapes and Beats,Bullet Hell,2,0
-Just Shapes and Beats,Bullet Hell,2,0
+Just Shapes and Beats,Bullet Hell,2,1
+Just Shapes and Beats,Bullet Hell,2,1
+Just Shapes and Beats,Bullet Hell,2,1
+Just Shapes and Beats,Bullet Hell,2,1
+Just Shapes and Beats,Bullet Hell,2,1
 Towerfall,Platform Fighter,0,0
 Towerfall,Platform Fighter,0,0
 Towerfall,Platform Fighter,0,0
@@ -54,10 +54,10 @@ Devil in the details,Party Game,0,1
 Devil in the details,Party Game,0,1
 Devil in the details,Party Game,0,1
 Devil in the details,Party Game,0,1
-Role Models,Party Game,0,0
-Role Models,Party Game,0,0
-Role Models,Party Game,0,0
-Role Models,Party Game,0,0
+Role Models,Party Game,0,1
+Role Models,Party Game,0,1
+Role Models,Party Game,0,1
+Role Models,Party Game,0,1
 ARMS(Fight),3D Fighter,0,0
 ARMS(Fight),3D Fighter,0,0
 ARMS(Fight),3D Fighter,0,0
@@ -89,10 +89,10 @@ Fibage 3(regular),Party Game,0,0
 Fibage 3(regular),Party Game,0,0
 Fibage 3(regular),Party Game,0,0
 Fibage 3(regular),Party Game,0,0
-Fibage 3(enough about you),Party Game,0,0
-Fibage 3(enough about you),Party Game,0,0
-Fibage 3(enough about you),Party Game,0,0
-Fibage 3(enough about you),Party Game,0,0
+Fibage 3(enough about you),Party Game,0,1
+Fibage 3(enough about you),Party Game,0,1
+Fibage 3(enough about you),Party Game,0,1
+Fibage 3(enough about you),Party Game,0,1
 Blather 'Round,Party Game,0,0
 Blather 'Round,Party Game,0,0
 Blather 'Round,Party Game,0,0
@@ -110,14 +110,14 @@ Ultimate Chicken Horse,2D Platformer,0,0
 Ultimate Chicken Horse,2D Platformer,0,0
 Ultimate Chicken Horse,2D Platformer,0,0
 Ultimate Chicken Horse,2D Platformer,0,0
-Speedrunners,2D Platformer,0,1
-Speedrunners,2D Platformer,0,1
-Speedrunners,2D Platformer,0,1
-Speedrunners,2D Platformer,0,1
-Super Metroid,Metroidvania,0,1
-Super Metroid,Metroidvania,0,1
-Super Metroid,Metroidvania,0,1
-Super Metroid,Metroidvania,0,1
+Speedrunners,2D Platformer,0,2
+Speedrunners,2D Platformer,0,2
+Speedrunners,2D Platformer,0,2
+Speedrunners,2D Platformer,0,2
+Super Metroid,Metroidvania,2,2
+Super Metroid,Metroidvania,2,2
+Super Metroid,Metroidvania,2,2
+Super Metroid,Metroidvania,2,2
 Wario Ware: Get it Together(Sly Angle),Party Game,0,0
 Wario Ware: Get it Together(Sly Angle),Party Game,0,0
 Wario Ware: Get it Together(Sly Angle),Party Game,0,0
@@ -166,14 +166,14 @@ Skullgirls 2nd Encore,2D Fighter,0,1
 Skullgirls 2nd Encore,2D Fighter,0,1
 Skullgirls 2nd Encore,2D Fighter,0,1
 Skullgirls 2nd Encore,2D Fighter,0,1
-Quake II,Shooter,0,0
-Quake II,Shooter,0,0
-Quake II,Shooter,0,0
-Quake II,Shooter,0,0
-Quake II,Shooter,0,0
-Metroid Dread,Metroidvania,0,0
-Metroid Dread,Metroidvania,0,0
-Metroid Dread,Metroidvania,0,0
+Quake II,Shooter,0,1
+Quake II,Shooter,0,1
+Quake II,Shooter,0,1
+Quake II,Shooter,0,1
+Quake II,Shooter,0,1
+Metroid Dread,Metroidvania,0,1
+Metroid Dread,Metroidvania,0,1
+Metroid Dread,Metroidvania,0,1
 Celeste,2D Platformer,2,0
 Celeste,2D Platformer,2,0
 Celeste,2D Platformer,2,0
@@ -183,10 +183,10 @@ ARMS(VBall),Sports,0,1
 ARMS(VBall),Sports,0,1
 ARMS(VBall),Sports,0,1
 ARMS(VBall),Sports,0,1
-ARMS(Hoops),Sports,0,1
-ARMS(Hoops),Sports,0,1
-ARMS(Hoops),Sports,0,1
-ARMS(Hoops),Sports,0,1
+ARMS(Hoops),Sports,0,2
+ARMS(Hoops),Sports,0,2
+ARMS(Hoops),Sports,0,2
+ARMS(Hoops),Sports,0,2
 ARMS(Hedlok Scramble),3D Fighter,0,1
 ARMS(Hedlok Scramble),3D Fighter,0,1
 ARMS(Hedlok Scramble),3D Fighter,0,1
@@ -209,10 +209,10 @@ Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Survival Horror),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Survival Horror),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Survival Horror),Beat em Up,0,0
-Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0,0
-Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0,0
-Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0,0
-Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,0,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,1,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,1,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,1,0
+Scott Pilgrim vs The World: The Game (Boss Rush),Beat em Up,1,0
 Mario Kart World (Knockout Tour),Racing,2,1
 Mario Kart World (Knockout Tour),Racing,2,1
 Mario Kart World (Knockout Tour),Racing,2,1
@@ -233,10 +233,10 @@ Minecraft(Mob Arena),Action Adventure,2,1
 Minecraft(Mob Arena),Action Adventure,2,1
 Minecraft(Mob Arena),Action Adventure,2,1
 Minecraft(Mob Arena),Action Adventure,2,1
-Hat In Time,3D Platfomrer,2,0
-Hat In Time,3D Platfomrer,2,0
-Hat In Time,3D Platfomrer,2,0
-Hat In Time,3D Platfomrer,2,0
+Hat In Time,3D Platfomrer,2,1
+Hat In Time,3D Platfomrer,2,1
+Hat In Time,3D Platfomrer,2,1
+Hat In Time,3D Platfomrer,2,1
 Poker,Card Game,0,0
 Poker,Card Game,0,0
 Poker,Card Game,0,0
@@ -250,11 +250,11 @@ Land-io,Party Game,0,0
 Land-io,Party Game,0,0
 Land-io,Party Game,0,0
 Land-io,Party Game,0,0
-Mario Sports Mix(Vollyball),Sports,2,0
-Mario Sports Mix(Vollyball),Sports,2,0
-Mario Sports Mix(Vollyball),Sports,2,0
-Mario Sports Mix(Vollyball),Sports,2,0
-Mario Sports Mix(Vollyball),Sports,2,0
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
 Mario Sports Mix(Basketball),Sports,2,0
 Mario Sports Mix(Basketball),Sports,2,0
 Mario Sports Mix(Basketball),Sports,2,0
@@ -312,11 +312,11 @@ Minecraft(Obstacles),Action Adventure,1,0
 Minecraft(Obstacles),Action Adventure,1,0
 Minecraft(Obstacles),Action Adventure,1,0
 Minecraft(Obstacles),Action Adventure,1,0
-Mario Sports Mix(Feed Petey),Sports,0,0
-Mario Sports Mix(Feed Petey),Sports,0,0
-Mario Sports Mix(Feed Petey),Sports,0,0
-Mario Sports Mix(Feed Petey),Sports,0,0
-Mario Sports Mix(Feed Petey),Sports,0,0
+Mario Sports Mix(Feed Petey),Sports,0,1
+Mario Sports Mix(Feed Petey),Sports,0,1
+Mario Sports Mix(Feed Petey),Sports,0,1
+Mario Sports Mix(Feed Petey),Sports,0,1
+Mario Sports Mix(Feed Petey),Sports,0,1
 You Don't know Jack,Party Game,0,0
 You Don't know Jack,Party Game,0,0
 You Don't know Jack,Party Game,0,0
@@ -333,12 +333,26 @@ Reversi,Strategy,0,0
 Checkers,Strategy,0,0
 Reversi,Strategy,0,0
 Bomberman 2,Strategy,0,0
-Minecraft(Spleef),Action Adventure,0,0
 Bomberman 2,Strategy,0,0
-Minecraft(Spleef),Action Adventure,0,0
 Bomberman 2,Strategy,0,0
-Minecraft(Spleef),Action Adventure,0,0
 Bomberman 2,Strategy,0,0
-Minecraft(Spleef),Action Adventure,0,0
 Bomberman 2,Strategy,0,0
-Minecraft(Spleef),Action Adventure,0,0
+Minecraft(Spleef),0,0
+Minecraft(Spleef),0,0
+Minecraft(Spleef),0,0
+Minecraft(Spleef),0,0
+Minecraft(Spleef),0,0
+Mega Man 2,Metroidvania,0,0
+Mega Man 2,Metroidvania,0,0
+Mega Man 2,Metroidvania,0,0
+Mega Man 2,Metroidvania,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0

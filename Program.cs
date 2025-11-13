@@ -40,13 +40,12 @@ while (game <= gamestourney)
     if (bossmode == 1)
     {
         curgame = randomizer.Next(0, games.Count - 1);
-        roller = randomizer.Next(0, games[curgame].timesPlayed);
+        roller = randomizer.Next(0, games[curgame].timesPlayed * 2);
         if (roller == 0)
         {
             writer.WriteLine(games[curgame].Name);
             curgenre = games[curgame].Genre;
             game++;
-
             foreach (Game s in games.ToList())
             {
                 if (s.Genre == curgenre)
@@ -69,9 +68,9 @@ while (game <= gamestourney)
         for (iteration = 1; iteration < gamestourney;)
         {
             curgame = randomizer.Next(0, games.Count - 1);
+            roller = randomizer.Next(0, games[curgame].timesPlayed * 2);
             if (games[curgame].BossMode != 1)
             {
-                roller = randomizer.Next(0, games[curgame].timesPlayed);
                 if (roller == 0)
                 {
                     writer.WriteLine(games[curgame].Name);
