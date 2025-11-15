@@ -22,11 +22,11 @@ Towerfall,Platform Fighter,0,0
 Towerfall,Platform Fighter,0,0
 Towerfall,Platform Fighter,0,0
 Towerfall,Platform Fighter,0,0
-Super Smash Bros Ultimate,Platform Fighter,2,1
-Super Smash Bros Ultimate,Platform Fighter,2,1
-Super Smash Bros Ultimate,Platform Fighter,2,1
-Super Smash Bros Ultimate,Platform Fighter,2,1
-Super Smash Bros Ultimate,Platform Fighter,2,1
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
 Sonic Racing Crossworlds,Racing,0,0
 Sonic Racing Crossworlds,Racing,0,0
 Sonic Racing Crossworlds,Racing,0,0
@@ -58,11 +58,11 @@ Role Models,Party Game,0,1
 Role Models,Party Game,0,1
 Role Models,Party Game,0,1
 Role Models,Party Game,0,1
-ARMS(Fight),3D Fighter,0,0
-ARMS(Fight),3D Fighter,0,0
-ARMS(Fight),3D Fighter,0,0
-ARMS(Fight),3D Fighter,0,0
-ARMS(Fight),3D Fighter,0,0
+ARMS(Fight),3D Fighter,0,2
+ARMS(Fight),3D Fighter,0,2
+ARMS(Fight),3D Fighter,0,2
+ARMS(Fight),3D Fighter,0,2
+ARMS(Fight),3D Fighter,0,2
 Mario Kart 8 Deluxe,Racing,0,0
 Mario Kart 8 Deluxe,Racing,0,0
 Mario Kart 8 Deluxe,Racing,0,0
@@ -114,10 +114,10 @@ Speedrunners,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
-Super Metroid,Metroidvania,2,2
-Super Metroid,Metroidvania,2,2
-Super Metroid,Metroidvania,2,2
-Super Metroid,Metroidvania,2,2
+Super Metroid,Metroidvania,2,3
+Super Metroid,Metroidvania,2,3
+Super Metroid,Metroidvania,2,3
+Super Metroid,Metroidvania,2,3
 Wario Ware: Get it Together(Sly Angle),Party Game,0,0
 Wario Ware: Get it Together(Sly Angle),Party Game,0,0
 Wario Ware: Get it Together(Sly Angle),Party Game,0,0
@@ -132,11 +132,11 @@ Wario Ware: Get it Together(High Five),Party Game,0,0
 Wario Ware: Get it Together(High Five),Party Game,0,0
 Wario Ware: Get it Together(High Five),Party Game,0,0
 Wario Ware: Get it Together(High Five),Party Game,0,0
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,0
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,0
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,0
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,0
-Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,0
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
+Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
 Kirby Star Allies(Star Slam Heroes),Party Game,0,0
 Kirby Star Allies(Star Slam Heroes),Party Game,0,0
 Kirby Star Allies(Star Slam Heroes),Party Game,0,0
@@ -154,10 +154,10 @@ Split The Room,Party Game,0,0
 Sifu,3D Fighter,0,0
 Sifu,3D Fighter,0,0
 Sifu,3D Fighter,0,0
-Splatoon 3(Side Order),Shooter,0,0
-Splatoon 3(Side Order),Shooter,0,0
-Splatoon 3(Side Order),Shooter,0,0
-Splatoon 3(Side Order),Shooter,0,0
+Splatoon 3(Side Order),Shooter,0,1
+Splatoon 3(Side Order),Shooter,0,1
+Splatoon 3(Side Order),Shooter,0,1
+Splatoon 3(Side Order),Shooter,0,1
 Blazeblue Centralfiction,2D Fighter,0,0
 Blazeblue Centralfiction,2D Fighter,0,0
 Blazeblue Centralfiction,2D Fighter,0,0
@@ -277,35 +277,35 @@ Mario Super Sluggers(Graffiti Runner),Sports,0,0
 Mario Super Sluggers(Blooper Baserun),Sports,0,0
 Mario Super Sluggers(Piranha Panic),Sports,0,0
 Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
 Mario Super Sluggers(Wall Ball),Sports,0,0
 Mario Super Sluggers(Bob-omb Derby),Sports,0,0
 Mario Super Sluggers(Graffiti Runner),Sports,0,0
 Mario Super Sluggers(Blooper Baserun),Sports,0,0
 Mario Super Sluggers(Piranha Panic),Sports,0,0
 Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
 Mario Super Sluggers(Wall Ball),Sports,0,0
 Mario Super Sluggers(Bob-omb Derby),Sports,0,0
 Mario Super Sluggers(Graffiti Runner),Sports,0,0
 Mario Super Sluggers(Blooper Baserun),Sports,0,0
 Mario Super Sluggers(Piranha Panic),Sports,0,0
 Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
 Mario Super Sluggers(Wall Ball),Sports,0,0
 Mario Super Sluggers(Bob-omb Derby),Sports,0,0
 Mario Super Sluggers(Graffiti Runner),Sports,0,0
 Mario Super Sluggers(Blooper Baserun),Sports,0,0
 Mario Super Sluggers(Piranha Panic),Sports,0,0
 Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
 Mario Super Sluggers(Wall Ball),Sports,0,0
 Mario Super Sluggers(Bob-omb Derby),Sports,0,0
 Mario Super Sluggers(Graffiti Runner),Sports,0,0
 Mario Super Sluggers(Blooper Baserun),Sports,0,0
 Mario Super Sluggers(Piranha Panic),Sports,0,0
 Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
 Mario Super Sluggers(Wall Ball),Sports,0,0
 Mario Super Sluggers(Bob-omb Derby),Sports,0,0
 Minecraft(Obstacles),Action Adventure,1,0
@@ -317,11 +317,11 @@ Mario Sports Mix(Feed Petey),Sports,0,1
 Mario Sports Mix(Feed Petey),Sports,0,1
 Mario Sports Mix(Feed Petey),Sports,0,1
 Mario Sports Mix(Feed Petey),Sports,0,1
-You Don't know Jack,Party Game,0,0
-You Don't know Jack,Party Game,0,0
-You Don't know Jack,Party Game,0,0
-You Don't know Jack,Party Game,0,0
-You Don't know Jack,Party Game,0,0
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
 Checkers,Strategy,0,0
 Reversi,Strategy,0,0
 Checkers,Strategy,0,0
@@ -332,20 +332,15 @@ Checkers,Strategy,0,0
 Reversi,Strategy,0,0
 Checkers,Strategy,0,0
 Reversi,Strategy,0,0
-Bomberman 2,Strategy,0,0
-Bomberman 2,Strategy,0,0
-Bomberman 2,Strategy,0,0
-Bomberman 2,Strategy,0,0
-Bomberman 2,Strategy,0,0
-Minecraft(Spleef),0,0
-Minecraft(Spleef),0,0
-Minecraft(Spleef),0,0
-Minecraft(Spleef),0,0
-Minecraft(Spleef),0,0
-Mega Man 2,Metroidvania,0,0
-Mega Man 2,Metroidvania,0,0
-Mega Man 2,Metroidvania,0,0
-Mega Man 2,Metroidvania,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Minecraft(Spleef),Action Adventure,0,0
+Mega Man 2,Metroidvania,0,1
+Mega Man 2,Metroidvania,0,1
+Mega Man 2,Metroidvania,0,1
+Mega Man 2,Metroidvania,0,1
 Splatoon 3(Turf Wars),Shooter,0,0
 Splatoon 3(Kill),Shooter,0,0
 Splatoon 3(Turf Wars),Shooter,0,0
@@ -356,3 +351,26 @@ Splatoon 3(Turf Wars),Shooter,0,0
 Splatoon 3(Kill),Shooter,0,0
 Splatoon 3(Turf Wars),Shooter,0,0
 Splatoon 3(Kill),Shooter,0,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,0,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,0,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Minecraft(Bedrock)(PVP),Action Adventure,0,0
+Minecraft(Bedrock)(PVP),Action Adventure,0,0
+Minecraft(Bedrock)(PVP),Action Adventure,0,0
+Minecraft(Bedrock)(PVP),Action Adventure,0,0
+Minecraft(Bedrock)(PVP),Action Adventure,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
