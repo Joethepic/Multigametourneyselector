@@ -9,9 +9,12 @@ Pikmin 4,Strategy,0,0
 Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
+Balatro,Deckbuilder,2,2
 Street Fighter Alpha 3,2D Fighter,0,0
 Street Fighter Alpha 3,2D Fighter,0,0
 Street Fighter Alpha 3,2D Fighter,0,0
+Street Fighter Alpha 3,2D Fighter,0,0
+Street Fighter Alpha 3,2D Fighter,0,0
 Just Shapes and Beats,Bullet Hell,2,1
 Just Shapes and Beats,Bullet Hell,2,1
 Just Shapes and Beats,Bullet Hell,2,1
@@ -42,14 +45,18 @@ Duck Game,Platform Fighter,0,0
 Duck Game,Platform Fighter,0,0
 Duck Game,Platform Fighter,0,0
 Duck Game,Platform Fighter,0,0
+super mario party jamboree,Party Game,0,0
 super mario party jamboree,Party Game,0,0
 super mario party jamboree,Party Game,0,0
 super mario party jamboree,Party Game,0,0
 Hollow Knight,Metroidvania,0,0
 Hollow Knight,Metroidvania,0,0
+Hollow Knight,Metroidvania,0,0
+Hollow Knight,Metroidvania,0,0
 Slay the spire,Deckbuilder,2,1
 Slay the spire,Deckbuilder,2,1
 Slay the spire,Deckbuilder,2,1
+Slay the spire,Deckbuilder,2,1
 Devil in the details,Party Game,0,1
 Devil in the details,Party Game,0,1
 Devil in the details,Party Game,0,1
@@ -68,6 +75,7 @@ Mario Kart 8 Deluxe,Racing,0,0
 Mario Kart 8 Deluxe,Racing,0,0
 Mario Kart 8 Deluxe,Racing,0,0
 Mario Kart 8 Deluxe,Racing,0,0
+Mario Party Superstars,Party Game,0,0
 Mario Party Superstars,Party Game,0,0
 Mario Party Superstars,Party Game,0,0
 Mario Party Superstars,Party Game,0,0
@@ -200,6 +208,7 @@ Enter The Gungeon,Bullet Hell,0,0
 Enter The Gungeon,Bullet Hell,0,0
 Enter The Gungeon,Bullet Hell,0,0
 Enter The Gungeon,Bullet Hell,0,0
+Minecraft(Race),Racing,0,1
 Minecraft(Race),Racing,0,1
 Minecraft(Race),Racing,0,1
 Minecraft(Race),Racing,0,1
@@ -356,9 +365,9 @@ Super Smash Bros Ultimate(Random),Platform Fighter,2,0
 Super Smash Bros Ultimate(Random),Platform Fighter,2,0
 Super Smash Bros Ultimate(Random),Platform Fighter,2,0
 Super Smash Bros Ultimate(Random),Platform Fighter,2,0
-Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,0,0
-Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,0,0
-Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,0,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,2,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,2,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,2,0
 Quiz Planet,Party Game,0,0
 Quiz Planet,Party Game,0,0
 Quiz Planet,Party Game,0,0
@@ -374,3 +383,15 @@ Mario Super Sluggers(Baseball),Sports,0,0
 Mario Super Sluggers(Baseball),Sports,0,0
 Mario Super Sluggers(Baseball),Sports,0,0
 Mario Super Sluggers(Baseball),Sports,0,0
+Splatoon 3(Alterna),Shooter,2,0
+Splatoon 3(Alterna),Shooter,2,0
+Splatoon 3(Alterna),Shooter,2,0
+Splatoon 3(Alterna),Shooter,2,0
+Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
+Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
+Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
+Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
+Super Mario Odyssey,3D Platfomrer,0,0
+Super Mario Odyssey,3D Platfomrer,0,0
+Super Mario Odyssey,3D Platfomrer,0,0
+Super Mario Odyssey,3D Platfomrer,0,0
