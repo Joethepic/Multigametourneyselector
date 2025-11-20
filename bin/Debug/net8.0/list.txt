@@ -10,11 +10,11 @@ Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
-Street Fighter Alpha 3,2D Fighter,0,0
-Street Fighter Alpha 3,2D Fighter,0,0
-Street Fighter Alpha 3,2D Fighter,0,0
-Street Fighter Alpha 3,2D Fighter,0,0
-Street Fighter Alpha 3,2D Fighter,0,0
+Street Fighter Alpha 3,2D Fighter,0,1
+Street Fighter Alpha 3,2D Fighter,0,1
+Street Fighter Alpha 3,2D Fighter,0,1
+Street Fighter Alpha 3,2D Fighter,0,1
+Street Fighter Alpha 3,2D Fighter,0,1
 Just Shapes and Beats,Bullet Hell,2,1
 Just Shapes and Beats,Bullet Hell,2,1
 Just Shapes and Beats,Bullet Hell,2,1
@@ -49,10 +49,10 @@ super mario party jamboree,Party Game,0,0
 super mario party jamboree,Party Game,0,0
 super mario party jamboree,Party Game,0,0
 super mario party jamboree,Party Game,0,0
-Hollow Knight,Metroidvania,0,0
-Hollow Knight,Metroidvania,0,0
-Hollow Knight,Metroidvania,0,0
-Hollow Knight,Metroidvania,0,0
+Hollow Knight,Metroidvania,0,1
+Hollow Knight,Metroidvania,0,1
+Hollow Knight,Metroidvania,0,1
+Hollow Knight,Metroidvania,0,1
 Slay the spire,Deckbuilder,2,1
 Slay the spire,Deckbuilder,2,1
 Slay the spire,Deckbuilder,2,1
@@ -126,10 +126,10 @@ Super Metroid,Metroidvania,2,3
 Super Metroid,Metroidvania,2,3
 Super Metroid,Metroidvania,2,3
 Super Metroid,Metroidvania,2,3
-Wario Ware: Get it Together(Sly Angle),Party Game,0,0
-Wario Ware: Get it Together(Sly Angle),Party Game,0,0
-Wario Ware: Get it Together(Sly Angle),Party Game,0,0
-Wario Ware: Get it Together(Sly Angle),Party Game,0,0
+Wario Ware: Get it Together(Sly Angle),Party Game,0,2
+Wario Ware: Get it Together(Sly Angle),Party Game,0,2
+Wario Ware: Get it Together(Sly Angle),Party Game,0,2
+Wario Ware: Get it Together(Sly Angle),Party Game,0,2
 Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
 Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
 Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
@@ -200,18 +200,18 @@ ARMS(Hedlok Scramble),3D Fighter,0,1
 ARMS(Hedlok Scramble),3D Fighter,0,1
 ARMS(Hedlok Scramble),3D Fighter,0,1
 ARMS(Hedlok Scramble),3D Fighter,0,1
-Super Castlevania 4,2D Platformer,2,0
-Super Castlevania 4,2D Platformer,2,0
-Super Castlevania 4,2D Platformer,2,0
-Super Castlevania 4,2D Platformer,2,0
+Super Castlevania 4,2D Platformer,2,1
+Super Castlevania 4,2D Platformer,2,1
+Super Castlevania 4,2D Platformer,2,1
+Super Castlevania 4,2D Platformer,2,1
 Enter The Gungeon,Bullet Hell,0,0
 Enter The Gungeon,Bullet Hell,0,0
 Enter The Gungeon,Bullet Hell,0,0
 Enter The Gungeon,Bullet Hell,0,0
-Minecraft(Race),Racing,0,1
-Minecraft(Race),Racing,0,1
-Minecraft(Race),Racing,0,1
-Minecraft(Race),Racing,0,1
+Minecraft(Race),Racing,2,1
+Minecraft(Race),Racing,2,1
+Minecraft(Race),Racing,2,1
+Minecraft(Race),Racing,2,1
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
@@ -346,10 +346,10 @@ Minecraft(Spleef),Action Adventure,0,0
 Minecraft(Spleef),Action Adventure,0,0
 Minecraft(Spleef),Action Adventure,0,0
 Minecraft(Spleef),Action Adventure,0,0
-Mega Man 2,Metroidvania,0,1
-Mega Man 2,Metroidvania,0,1
-Mega Man 2,Metroidvania,0,1
-Mega Man 2,Metroidvania,0,1
+Mega Man 2,Metroidvania,1,1
+Mega Man 2,Metroidvania,1,1
+Mega Man 2,Metroidvania,1,1
+Mega Man 2,Metroidvania,1,1
 Splatoon 3(Turf Wars),Shooter,0,0
 Splatoon 3(Kill),Shooter,0,0
 Splatoon 3(Turf Wars),Shooter,0,0
@@ -395,3 +395,7 @@ Super Mario Odyssey,3D Platfomrer,0,0
 Super Mario Odyssey,3D Platfomrer,0,0
 Super Mario Odyssey,3D Platfomrer,0,0
 Super Mario Odyssey,3D Platfomrer,0,0
+Moonrakers,Deckbuilder,0,0
+Moonrakers,Deckbuilder,0,0
+Moonrakers,Deckbuilder,0,0
+Moonrakers,Deckbuilder,0,0
