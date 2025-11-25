@@ -1,0 +1,190 @@
+Balatro,Deckbuilder,2,2
+Balatro,Deckbuilder,2,2
+Balatro,Deckbuilder,2,2
+Balatro,Deckbuilder,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Super Smash Bros Ultimate(Reg),Platform Fighter,2,2
+Duck Game,Platform Fighter,0,1
+Duck Game,Platform Fighter,0,1
+Duck Game,Platform Fighter,0,1
+Duck Game,Platform Fighter,0,1
+Duck Game,Platform Fighter,0,1
+Hollow Knight,Metroidvania,0,1
+Hollow Knight,Metroidvania,0,1
+Hollow Knight,Metroidvania,0,1
+Hollow Knight,Metroidvania,0,1
+Slay the spire,Deckbuilder,2,1
+Slay the spire,Deckbuilder,2,1
+Slay the spire,Deckbuilder,2,1
+Slay the spire,Deckbuilder,2,1
+Puyo Puyo Tetris 2(Swap),Puzzle,0,1
+Puyo Puyo Tetris 2(Swap),Puzzle,0,1
+Puyo Puyo Tetris 2(Swap),Puzzle,0,1
+Puyo Puyo Tetris 2(Swap),Puzzle,0,1
+Puyo Puyo Tetris 2(Swap),Puzzle,0,1
+Split The Room,Party Game,0,0
+Split The Room,Party Game,0,0
+Split The Room,Party Game,0,0
+Split The Room,Party Game,0,0
+Celeste,2D Platformer,2,3
+Celeste,2D Platformer,2,3
+Celeste,2D Platformer,2,3
+Celeste,2D Platformer,2,3
+Minecraft(Race),Racing,2,1
+Minecraft(Race),Racing,2,1
+Minecraft(Race),Racing,2,1
+Minecraft(Race),Racing,2,1
+Minecraft(Mob Arena),Action Adventure,2,1
+Minecraft(Mob Arena),Action Adventure,2,1
+Minecraft(Mob Arena),Action Adventure,2,1
+Minecraft(Mob Arena),Action Adventure,2,1
+Overcooked 2,Simulation,2,1
+Overcooked 2,Simulation,2,1
+Overcooked 2,Simulation,2,1
+Overcooked 2,Simulation,2,1
+Tyrants of the Underdark(Solo),Deckbuilder,1,1
+Tyrants of the Underdark(Solo),Deckbuilder,1,1
+Tyrants of the Underdark(Solo),Deckbuilder,1,1
+Tyrants of the Underdark(Solo),Deckbuilder,1,1
+Chess,Board Game,0,1
+Chess,Board Game,0,1
+Chess,Board Game,0,1
+Chess,Board Game,0,1
+Hat In Time,3D Platfomrer,2,1
+Hat In Time,3D Platfomrer,2,1
+Hat In Time,3D Platfomrer,2,1
+Hat In Time,3D Platfomrer,2,1
+Poker,Card Game,0,0
+Poker,Card Game,0,0
+Poker,Card Game,0,0
+Poker,Card Game,0,0
+Poker,Card Game,0,0
+Colonist,Board Game,0,0
+Colonist,Board Game,0,0
+Colonist,Board Game,0,0
+Colonist,Board Game,0,0
+Land-io,Party Game,0,0
+Land-io,Party Game,0,0
+Land-io,Party Game,0,0
+Land-io,Party Game,0,0
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Vollyball),Sports,2,1
+Mario Sports Mix(Basketball),Sports,2,0
+Mario Sports Mix(Basketball),Sports,2,0
+Mario Sports Mix(Basketball),Sports,2,0
+Mario Sports Mix(Basketball),Sports,2,0
+Mario Sports Mix(Hockey),Sports,2,0
+Mario Sports Mix(Hockey),Sports,2,0
+Mario Sports Mix(Hockey),Sports,2,0
+Mario Sports Mix(Hockey),Sports,2,0
+Mario Sports Mix(Dodgeball),Sports,2,0
+Mario Sports Mix(Dodgeball),Sports,2,0
+Mario Sports Mix(Dodgeball),Sports,2,0
+Mario Sports Mix(Dodgeball),Sports,2,0
+Mario Sports Mix(Dodgeball),Sports,2,0
+Mario Super Sluggers(Gem Catch),Sports,0,0
+Mario Super Sluggers(Gem Catch),Sports,0,0
+Mario Super Sluggers(Gem Catch),Sports,0,0
+Mario Super Sluggers(Gem Catch),Sports,0,0
+Mario Super Sluggers(Gem Catch),Sports,0,0
+Mario Super Sluggers(Graffiti Runner),Sports,0,0
+Mario Super Sluggers(Blooper Baserun),Sports,0,0
+Mario Super Sluggers(Piranha Panic),Sports,0,0
+Mario Super Sluggers(Bowser Pinball),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
+Mario Super Sluggers(Wall Ball),Sports,0,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0,0
+Mario Super Sluggers(Graffiti Runner),Sports,0,0
+Mario Super Sluggers(Blooper Baserun),Sports,0,0
+Mario Super Sluggers(Piranha Panic),Sports,0,0
+Mario Super Sluggers(Bowser Pinball),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
+Mario Super Sluggers(Wall Ball),Sports,0,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0,0
+Mario Super Sluggers(Graffiti Runner),Sports,0,0
+Mario Super Sluggers(Blooper Baserun),Sports,0,0
+Mario Super Sluggers(Piranha Panic),Sports,0,0
+Mario Super Sluggers(Bowser Pinball),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
+Mario Super Sluggers(Wall Ball),Sports,0,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0,0
+Mario Super Sluggers(Graffiti Runner),Sports,0,0
+Mario Super Sluggers(Blooper Baserun),Sports,0,0
+Mario Super Sluggers(Piranha Panic),Sports,0,0
+Mario Super Sluggers(Bowser Pinball),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
+Mario Super Sluggers(Wall Ball),Sports,0,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0,0
+Mario Super Sluggers(Graffiti Runner),Sports,0,0
+Mario Super Sluggers(Blooper Baserun),Sports,0,0
+Mario Super Sluggers(Piranha Panic),Sports,0,0
+Mario Super Sluggers(Bowser Pinball),Sports,0,0
+Mario Super Sluggers(Ghost K),Sports,0,1
+Mario Super Sluggers(Wall Ball),Sports,0,0
+Mario Super Sluggers(Bob-omb Derby),Sports,0,0
+Minecraft(Obstacles),Action Adventure,1,0
+Minecraft(Obstacles),Action Adventure,1,0
+Minecraft(Obstacles),Action Adventure,1,0
+Minecraft(Obstacles),Action Adventure,1,0
+Mario Sports Mix(Feed Petey),Sports,0,2
+Mario Sports Mix(Feed Petey),Sports,0,2
+Mario Sports Mix(Feed Petey),Sports,0,2
+Mario Sports Mix(Feed Petey),Sports,0,2
+Mario Sports Mix(Feed Petey),Sports,0,2
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+You Don't know Jack,Party Game,0,1
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Checkers,Strategy,0,0
+Reversi,Strategy,0,0
+Mega Man 2,Metroidvania,1,2
+Mega Man 2,Metroidvania,1,2
+Mega Man 2,Metroidvania,1,2
+Mega Man 2,Metroidvania,1,2
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Splatoon 3(Turf Wars),Shooter,0,0
+Splatoon 3(Kill),Shooter,0,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Super Smash Bros Ultimate(Random),Platform Fighter,2,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,2,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,2,0
+Donkey Kong Bonanza (Emerald Rush),3D Platfomrer,2,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Quiz Planet,Party Game,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Mario Super Sluggers(Baseball),Sports,0,0
+Moonrakers(Solo),Deckbuilder,0,0
+Moonrakers(Solo),Deckbuilder,0,0
+Moonrakers(Solo),Deckbuilder,0,0
+Moonrakers(Solo),Deckbuilder,0,0

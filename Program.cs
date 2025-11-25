@@ -1,7 +1,17 @@
 ﻿using Multigame_Tournament_game_decider;
 using System.Text.RegularExpressions;
 StreamWriter writer = new StreamWriter("games.txt");
-StreamReader readlist = new StreamReader("list.txt");
+StreamReader readlist;
+Console.WriteLine("Enter whether the tournament is physical or virtual. 1 for Physical. 2 for virtual");
+int location = Convert.ToInt32(Console.ReadLine());
+if (location == 1)
+{
+    readlist = new StreamReader("listIRL.txt");
+}
+else
+{
+    readlist = new StreamReader("listVirtual.txt");
+}
 int gamestourney;
 int gamesttl;
 int game = 1;
