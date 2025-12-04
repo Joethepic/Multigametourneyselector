@@ -399,3 +399,23 @@ Moonrakers(Solo),Deckbuilder,0,0
 Moonrakers(Solo),Deckbuilder,0,0
 Moonrakers(Solo),Deckbuilder,0,0
 Moonrakers(Solo),Deckbuilder,0,0
+Tetr.io,Puzzle,0,0
+Tetr.io,Puzzle,0,0
+Tetr.io,Puzzle,0,0
+Tetr.io,Puzzle,0,0
+Tetr.io,Puzzle,0,0
+Breath of the Wild (Bird-Man Research Study),Action Adventure,0,0
+Breath of the Wild (Boom Bam Golf),Sports,0,0
+Breath of the Wild (Deer Hunting),Action Adventure,0,0
+Breath of the Wild (Flight Range),Shooter,0,0
+Breath of the Wild (Footrace),Racing,0,0
+Breath of the Wild (Horseback Archery),Shooter,0,0
+Breath of the Wild (Obstacle Course),Action Adventure,0,0
+Breath of the Wild (Paraglider Course),Action Adventure,0,0
+Breath of the Wild (Sand-Seal Race),Action Adventure,0,0
+Breath of the Wild (Shield-Surfing),Action Adventure,0,0
+Breath of the Wild (Snowball Bowling),Sports,0,0
+Breath of the Wild (Super Gut Check),Action Adventure,0,0
+Breath of the Wild (Boss Fight),Action Adventure,2,0
+Breath of the Wild (Trail of the Master Sword),Action Adventure,0,0
+Glitch Karts,Racing,0,0
