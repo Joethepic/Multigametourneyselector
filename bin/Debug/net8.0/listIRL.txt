@@ -1,12 +1,4 @@
-Pikmin 3,Strategy,0,0
-Pikmin 3,Strategy,0,0
-Pikmin 3,Strategy,0,0
-Pikmin 3,Strategy,0,0
-Pikmin 4,Strategy,0,0
-Pikmin 4,Strategy,0,0
-Pikmin 4,Strategy,0,0
-Pikmin 4,Strategy,0,0
-Balatro,Deckbuilder,2F
+Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
 Balatro,Deckbuilder,2,2
@@ -45,40 +37,11 @@ Duck Game,Platform Fighter,0,1
 Duck Game,Platform Fighter,0,1
 Duck Game,Platform Fighter,0,1
 Duck Game,Platform Fighter,0,1
-super mario party jamboree,Party Game,0,0
-super mario party jamboree,Party Game,0,0
-super mario party jamboree,Party Game,0,0
-super mario party jamboree,Party Game,0,0
-Hollow Knight,Metroidvania,0,1
-Hollow Knight,Metroidvania,0,1
-Hollow Knight,Metroidvania,0,1
-Hollow Knight,Metroidvania,0,1
-Slay the spire,Deckbuilder,2,1
-Slay the spire,Deckbuilder,2,1
-Slay the spire,Deckbuilder,2,1
-Slay the spire,Deckbuilder,2,1
-Devil in the details,Party Game,0,1
-Devil in the details,Party Game,0,1
-Devil in the details,Party Game,0,1
-Devil in the details,Party Game,0,1
-Role Models,Party Game,0,1
-Role Models,Party Game,0,1
-Role Models,Party Game,0,1
-Role Models,Party Game,0,1
-ARMS(Fight),3D Fighter,0,2
-ARMS(Fight),3D Fighter,0,2
-ARMS(Fight),3D Fighter,0,2
-ARMS(Fight),3D Fighter,0,2
-ARMS(Fight),3D Fighter,0,2
-Mario Kart 8 Deluxe,Racing,0,0
-Mario Kart 8 Deluxe,Racing,0,0
-Mario Kart 8 Deluxe,Racing,0,0
-Mario Kart 8 Deluxe,Racing,0,0
-Mario Kart 8 Deluxe,Racing,0,0
-Mario Party Superstars,Party Game,0,0
-Mario Party Superstars,Party Game,0,0
-Mario Party Superstars,Party Game,0,0
-Mario Party Superstars,Party Game,0,0
+Mario Kart 8 Deluxe,Racing,0,1
+Mario Kart 8 Deluxe,Racing,0,1
+Mario Kart 8 Deluxe,Racing,0,1
+Mario Kart 8 Deluxe,Racing,0,1
+Mario Kart 8 Deluxe,Racing,0,1
 Pokemon Tournament DX,3D Fighter,0,0
 Pokemon Tournament DX,3D Fighter,0,0
 Pokemon Tournament DX,3D Fighter,0,0
@@ -92,69 +55,19 @@ Puyo Puyo Tetris 2(Swap),Puzzle,0,1
 Puyo Puyo Tetris 2(Swap),Puzzle,0,1
 Puyo Puyo Tetris 2(Swap),Puzzle,0,1
 Puyo Puyo Tetris 2(Swap),Puzzle,0,1
-Fibage 3(regular),Party Game,0,0
-Fibage 3(regular),Party Game,0,0
-Fibage 3(regular),Party Game,0,0
-Fibage 3(regular),Party Game,0,0
-Fibage 3(regular),Party Game,0,0
-Fibage 3(enough about you),Party Game,0,1
-Fibage 3(enough about you),Party Game,0,1
-Fibage 3(enough about you),Party Game,0,1
-Fibage 3(enough about you),Party Game,0,1
-Blather 'Round,Party Game,0,0
-Blather 'Round,Party Game,0,0
-Blather 'Round,Party Game,0,0
-Blather 'Round,Party Game,0,0
-Trivia Murder Party 2,Party Game,0,1
-Trivia Murder Party 2,Party Game,0,1
-Trivia Murder Party 2,Party Game,0,1
-Trivia Murder Party 2,Party Game,0,1
-Push The Button,Party Game,0,1
-Push The Button,Party Game,0,1
-Push The Button,Party Game,0,1
-Push The Button,Party Game,0,1
-Push The Button,Party Game,0,1
-Ultimate Chicken Horse,2D Platformer,0,0
-Ultimate Chicken Horse,2D Platformer,0,0
-Ultimate Chicken Horse,2D Platformer,0,0
-Ultimate Chicken Horse,2D Platformer,0,0
+Ultimate Chicken Horse,2D Platformer,0,2
+Ultimate Chicken Horse,2D Platformer,0,2
+Ultimate Chicken Horse,2D Platformer,0,2
+Ultimate Chicken Horse,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
 Speedrunners,2D Platformer,0,2
-Super Metroid,Metroidvania,2,3
-Super Metroid,Metroidvania,2,3
-Super Metroid,Metroidvania,2,3
-Super Metroid,Metroidvania,2,3
-Wario Ware: Get it Together(Sly Angle),Party Game,0,2
-Wario Ware: Get it Together(Sly Angle),Party Game,0,2
-Wario Ware: Get it Together(Sly Angle),Party Game,0,2
-Wario Ware: Get it Together(Sly Angle),Party Game,0,2
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
-Wario Ware: Get it Together(Duelius Maxiums Lightning Round),Party Game,0,0
-Wario Ware: Get it Together(High Five),Sports,0,0
-Wario Ware: Get it Together(High Five),Sports,0,0
-Wario Ware: Get it Together(High Five),Sports,0,0
-Wario Ware: Get it Together(High Five),Sports,0,0
-Wario Ware: Get it Together(High Five),Sports,0,0
 Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
 Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
 Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
 Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
 Puyo Puyo Tetris 2(Versus tetris only),Puzzle,0,1
-Kirby Star Allies(Star Slam Heroes),Party Game,0,0
-Kirby Star Allies(Star Slam Heroes),Party Game,0,0
-Kirby Star Allies(Star Slam Heroes),Party Game,0,0
-Kirby Star Allies(Star Slam Heroes),Party Game,0,0
-Kirby Star Allies(Star Slam Heroes),Party Game,0,0
-Kirby Star Allies(Chop Champs),Party Game,0,0
-Kirby Star Allies(Chop Champs),Party Game,0,0
-Kirby Star Allies(Chop Champs),Party Game,0,0
-Kirby Star Allies(Chop Champs),Party Game,0,0
-Kirby Star Allies(Chop Champs),Party Game,0,0
 Split The Room,Party Game,0,0
 Split The Room,Party Game,0,0
 Split The Room,Party Game,0,0
@@ -162,10 +75,6 @@ Split The Room,Party Game,0,0
 Sifu,3D Fighter,0,0
 Sifu,3D Fighter,0,0
 Sifu,3D Fighter,0,0
-Splatoon 3(Side Order),Shooter,0,1
-Splatoon 3(Side Order),Shooter,0,1
-Splatoon 3(Side Order),Shooter,0,1
-Splatoon 3(Side Order),Shooter,0,1
 Blazeblue Centralfiction,2D Fighter,0,0
 Blazeblue Centralfiction,2D Fighter,0,0
 Blazeblue Centralfiction,2D Fighter,0,0
@@ -179,39 +88,10 @@ Quake II,Shooter,0,1
 Quake II,Shooter,0,1
 Quake II,Shooter,0,1
 Quake II,Shooter,0,1
-Metroid Dread,Metroidvania,0,1
-Metroid Dread,Metroidvania,0,1
-Metroid Dread,Metroidvania,0,1
-Celeste,2D Platformer,2,3
-Celeste,2D Platformer,2,3
-Celeste,2D Platformer,2,3
-Celeste,2D Platformer,2,3
-ARMS(VBall),Sports,0,1
-ARMS(VBall),Sports,0,1
-ARMS(VBall),Sports,0,1
-ARMS(VBall),Sports,0,1
-ARMS(VBall),Sports,0,1
-ARMS(Hoops),Sports,0,2
-ARMS(Hoops),Sports,0,2
-ARMS(Hoops),Sports,0,2
-ARMS(Hoops),Sports,0,2
-ARMS(Hedlok Scramble),3D Fighter,0,1
-ARMS(Hedlok Scramble),3D Fighter,0,1
-ARMS(Hedlok Scramble),3D Fighter,0,1
-ARMS(Hedlok Scramble),3D Fighter,0,1
-ARMS(Hedlok Scramble),3D Fighter,0,1
 Super Castlevania 4,2D Platformer,2,1
 Super Castlevania 4,2D Platformer,2,1
 Super Castlevania 4,2D Platformer,2,1
 Super Castlevania 4,2D Platformer,2,1
-Enter The Gungeon,Bullet Hell,0,0
-Enter The Gungeon,Bullet Hell,0,0
-Enter The Gungeon,Bullet Hell,0,0
-Enter The Gungeon,Bullet Hell,0,0
-Minecraft(Race),Racing,2,1
-Minecraft(Race),Racing,2,1
-Minecraft(Race),Racing,2,1
-Minecraft(Race),Racing,2,1
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
 Scott Pilgrim vs The World: The Game (Story mode),Beat em Up,0,0
@@ -226,26 +106,6 @@ Mario Kart World (Knockout Tour),Racing,2,1
 Mario Kart World (Knockout Tour),Racing,2,1
 Mario Kart World (Knockout Tour),Racing,2,1
 Mario Kart World (Knockout Tour),Racing,2,1
-Overcooked 2,Simulation,2,1
-Overcooked 2,Simulation,2,1
-Overcooked 2,Simulation,2,1
-Overcooked 2,Simulation,2,1
-Tyrants of the Underdark(Solo),Deckbuilder,1,1
-Tyrants of the Underdark(Solo),Deckbuilder,1,1
-Tyrants of the Underdark(Solo),Deckbuilder,1,1
-Tyrants of the Underdark(Solo),Deckbuilder,1,1
-Chess,Board Game,0,1
-Chess,Board Game,0,1
-Chess,Board Game,0,1
-Chess,Board Game,0,1
-Minecraft(Mob Arena),Action Adventure,2,1
-Minecraft(Mob Arena),Action Adventure,2,1
-Minecraft(Mob Arena),Action Adventure,2,1
-Minecraft(Mob Arena),Action Adventure,2,1
-Hat In Time,3D Platfomrer,2,1
-Hat In Time,3D Platfomrer,2,1
-Hat In Time,3D Platfomrer,2,1
-Hat In Time,3D Platfomrer,2,1
 Poker,Card Game,0,0
 Poker,Card Game,0,0
 Poker,Card Game,0,0
@@ -255,111 +115,10 @@ Colonist,Board Game,0,0
 Colonist,Board Game,0,0
 Colonist,Board Game,0,0
 Colonist,Board Game,0,0
-Land-io,Party Game,0,0
-Land-io,Party Game,0,0
-Land-io,Party Game,0,0
-Land-io,Party Game,0,0
-Mario Sports Mix(Vollyball),Sports,2,1
-Mario Sports Mix(Vollyball),Sports,2,1
-Mario Sports Mix(Vollyball),Sports,2,1
-Mario Sports Mix(Vollyball),Sports,2,1
-Mario Sports Mix(Vollyball),Sports,2,1
-Mario Sports Mix(Basketball),Sports,2,0
-Mario Sports Mix(Basketball),Sports,2,0
-Mario Sports Mix(Basketball),Sports,2,0
-Mario Sports Mix(Basketball),Sports,2,0
-Mario Sports Mix(Hockey),Sports,2,0
-Mario Sports Mix(Hockey),Sports,2,0
-Mario Sports Mix(Hockey),Sports,2,0
-Mario Sports Mix(Hockey),Sports,2,0
-Mario Sports Mix(Dodgeball),Sports,2,0
-Mario Sports Mix(Dodgeball),Sports,2,0
-Mario Sports Mix(Dodgeball),Sports,2,0
-Mario Sports Mix(Dodgeball),Sports,2,0
-Mario Sports Mix(Dodgeball),Sports,2,0
-Mario Super Sluggers(Gem Catch),Sports,0,0
-Mario Super Sluggers(Gem Catch),Sports,0,0
-Mario Super Sluggers(Gem Catch),Sports,0,0
-Mario Super Sluggers(Gem Catch),Sports,0,0
-Mario Super Sluggers(Gem Catch),Sports,0,0
-Mario Super Sluggers(Graffiti Runner),Sports,0,0
-Mario Super Sluggers(Blooper Baserun),Sports,0,0
-Mario Super Sluggers(Piranha Panic),Sports,0,0
-Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,1
-Mario Super Sluggers(Wall Ball),Sports,0,0
-Mario Super Sluggers(Bob-omb Derby),Sports,0,0
-Mario Super Sluggers(Graffiti Runner),Sports,0,0
-Mario Super Sluggers(Blooper Baserun),Sports,0,0
-Mario Super Sluggers(Piranha Panic),Sports,0,0
-Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,1
-Mario Super Sluggers(Wall Ball),Sports,0,0
-Mario Super Sluggers(Bob-omb Derby),Sports,0,0
-Mario Super Sluggers(Graffiti Runner),Sports,0,0
-Mario Super Sluggers(Blooper Baserun),Sports,0,0
-Mario Super Sluggers(Piranha Panic),Sports,0,0
-Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,1
-Mario Super Sluggers(Wall Ball),Sports,0,0
-Mario Super Sluggers(Bob-omb Derby),Sports,0,0
-Mario Super Sluggers(Graffiti Runner),Sports,0,0
-Mario Super Sluggers(Blooper Baserun),Sports,0,0
-Mario Super Sluggers(Piranha Panic),Sports,0,0
-Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,1
-Mario Super Sluggers(Wall Ball),Sports,0,0
-Mario Super Sluggers(Bob-omb Derby),Sports,0,0
-Mario Super Sluggers(Graffiti Runner),Sports,0,0
-Mario Super Sluggers(Blooper Baserun),Sports,0,0
-Mario Super Sluggers(Piranha Panic),Sports,0,0
-Mario Super Sluggers(Bowser Pinball),Sports,0,0
-Mario Super Sluggers(Ghost K),Sports,0,1
-Mario Super Sluggers(Wall Ball),Sports,0,0
-Mario Super Sluggers(Bob-omb Derby),Sports,0,0
-Minecraft(Obstacles),Action Adventure,1,0
-Minecraft(Obstacles),Action Adventure,1,0
-Minecraft(Obstacles),Action Adventure,1,0
-Minecraft(Obstacles),Action Adventure,1,0
-Mario Sports Mix(Feed Petey),Sports,0,2
-Mario Sports Mix(Feed Petey),Sports,0,2
-Mario Sports Mix(Feed Petey),Sports,0,2
-Mario Sports Mix(Feed Petey),Sports,0,2
-Mario Sports Mix(Feed Petey),Sports,0,2
-You Don't know Jack,Party Game,0,1
-You Don't know Jack,Party Game,0,1
-You Don't know Jack,Party Game,0,1
-You Don't know Jack,Party Game,0,1
-You Don't know Jack,Party Game,0,1
-Checkers,Strategy,0,0
-Reversi,Strategy,0,0
-Checkers,Strategy,0,0
-Reversi,Strategy,0,0
-Checkers,Strategy,0,0
-Reversi,Strategy,0,0
-Checkers,Strategy,0,0
-Reversi,Strategy,0,0
-Checkers,Strategy,0,0
-Reversi,Strategy,0,0
-Minecraft(Spleef),Action Adventure,0,0
-Minecraft(Spleef),Action Adventure,0,0
-Minecraft(Spleef),Action Adventure,0,0
-Minecraft(Spleef),Action Adventure,0,0
-Minecraft(Spleef),Action Adventure,0,0
-Mega Man 2,Metroidvania,1,2
-Mega Man 2,Metroidvania,1,2
-Mega Man 2,Metroidvania,1,2
-Mega Man 2,Metroidvania,1,2
-Splatoon 3(Turf Wars),Shooter,0,0
-Splatoon 3(Kill),Shooter,0,0
-Splatoon 3(Turf Wars),Shooter,0,0
-Splatoon 3(Kill),Shooter,0,0
-Splatoon 3(Turf Wars),Shooter,0,0
-Splatoon 3(Kill),Shooter,0,0
-Splatoon 3(Turf Wars),Shooter,0,0
-Splatoon 3(Kill),Shooter,0,0
-Splatoon 3(Turf Wars),Shooter,0,0
-Splatoon 3(Kill),Shooter,0,0
+Land-io,Party Game,0,1
+Land-io,Party Game,0,1
+Land-io,Party Game,0,1
+Land-io,Party Game,0,1
 Super Smash Bros Ultimate(Random),Platform Fighter,2,0
 Super Smash Bros Ultimate(Random),Platform Fighter,2,0
 Super Smash Bros Ultimate(Random),Platform Fighter,2,0
@@ -373,49 +132,7 @@ Quiz Planet,Party Game,0,0
 Quiz Planet,Party Game,0,0
 Quiz Planet,Party Game,0,0
 Quiz Planet,Party Game,0,0
-Minecraft(Bedrock)(PVP),Action Adventure,0,1
-Minecraft(Bedrock)(PVP),Action Adventure,0,1
-Minecraft(Bedrock)(PVP),Action Adventure,0,1
-Minecraft(Bedrock)(PVP),Action Adventure,0,1
-Minecraft(Bedrock)(PVP),Action Adventure,0,1
-Mario Super Sluggers(Baseball),Sports,0,0
-Mario Super Sluggers(Baseball),Sports,0,0
-Mario Super Sluggers(Baseball),Sports,0,0
-Mario Super Sluggers(Baseball),Sports,0,0
-Mario Super Sluggers(Baseball),Sports,0,0
-Splatoon 3(Alterna),Shooter,2,0
-Splatoon 3(Alterna),Shooter,2,0
-Splatoon 3(Alterna),Shooter,2,0
-Splatoon 3(Alterna),Shooter,2,0
 Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
 Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
 Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
 Donkey Kong Bonanza (Bunch of Boss Battles),3D Platfomrer,2,0
-Super Mario Odyssey,3D Platfomrer,0,0
-Super Mario Odyssey,3D Platfomrer,0,0
-Super Mario Odyssey,3D Platfomrer,0,0
-Super Mario Odyssey,3D Platfomrer,0,0
-Moonrakers(Solo),Deckbuilder,0,0
-Moonrakers(Solo),Deckbuilder,0,0
-Moonrakers(Solo),Deckbuilder,0,0
-Moonrakers(Solo),Deckbuilder,0,0
-Tetr.io,Puzzle,0,0
-Tetr.io,Puzzle,0,0
-Tetr.io,Puzzle,0,0
-Tetr.io,Puzzle,0,0
-Tetr.io,Puzzle,0,0
-Breath of the Wild (Bird-Man Research Study),Action Adventure,0,0
-Breath of the Wild (Boom Bam Golf),Sports,0,0
-Breath of the Wild (Deer Hunting),Action Adventure,0,0
-Breath of the Wild (Flight Range),Shooter,0,0
-Breath of the Wild (Footrace),Racing,0,0
-Breath of the Wild (Horseback Archery),Shooter,0,0
-Breath of the Wild (Obstacle Course),Action Adventure,0,0
-Breath of the Wild (Paraglider Course),Action Adventure,0,0
-Breath of the Wild (Sand-Seal Race),Action Adventure,0,0
-Breath of the Wild (Shield-Surfing),Action Adventure,0,0
-Breath of the Wild (Snowball Bowling),Sports,0,0
-Breath of the Wild (Super Gut Check),Action Adventure,0,0
-Breath of the Wild (Boss Fight),Action Adventure,2,0
-Breath of the Wild (Trail of the Master Sword),Action Adventure,0,0
-Glitch Karts,Racing,0,0
